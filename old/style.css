@@ -1,0 +1,9 @@
+.rtl {
+  direction: rtl;
+  text-align: right;
+}
+
+.rtl code, .rtl pre {
+  direction: ltr;
+  text-align: left;
+}
